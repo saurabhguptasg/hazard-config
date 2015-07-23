@@ -1,0 +1,11 @@
+quake:
+  feed:
+    url: http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.quakeml
+    rate: 5
+
+weather:
+  feed:
+    url: http://alerts.weather.gov/cap/us.php?x=0
+    rate: 5
+
+
