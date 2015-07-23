@@ -1,6 +1,6 @@
 quake:
   feed:
-    url: http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.quakeml
+    url: http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.csv
     rate: 5
 
 weather:
