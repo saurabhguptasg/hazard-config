@@ -1,0 +1,4 @@
+{
+    feed.url: "http://alerts.weather.gov/cap/us.php?x=0"
+    feed.sampleRate: 5
+}

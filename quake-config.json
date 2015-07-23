@@ -1,0 +1,4 @@
+{
+    feed.url: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.quakeml",
+    feed.sampleRate: 5
+}
